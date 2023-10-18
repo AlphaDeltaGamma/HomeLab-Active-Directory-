@@ -5,11 +5,11 @@ It  stores information about objects on the network and makes this information e
 
 
 # Gear And Environments Used
-Laptop : Samsung Galaxy Book2, 39.62cm (15.6"), i5, 16GB
-Model : NP750XED-KC3IN
-Processor : 12th Gen Intel(R) Core(TM) i5-1235U   1.30 GHz
-Installed RAM :	16.0 GB (15.7 GB usable)
-System type 64-bit operating system, x64-based processor
-Hypervisor: VMWare Workstation 16 Player
-Server : Microsoft 2019
-Operating System : Windows 10
+- Laptop : Samsung Galaxy Book2, 39.62cm (15.6"), i5, 16GB
+- Model : NP750XED-KC3IN
+- Processor : 12th Gen Intel(R) Core(TM) i5-1235U   1.30 GHz
+- Installed RAM :	16.0 GB (15.7 GB usable)
+- System type 64-bit operating system, x64-based processor
+- Hypervisor: VMWare Workstation 16 Player
+- Server : Microsoft 2019
+- Operating System : Windows 10
