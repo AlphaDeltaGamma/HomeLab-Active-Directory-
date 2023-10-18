@@ -2,8 +2,6 @@
 Active Directory (AD) is a database and set of services that connect users with the network resources they need to get their work done. 
 It  stores information about objects on the network and makes this information easy for administrators and users to find and use. Active Directory uses a structured data store as the basis for a logical, hierarchical organization of directory information.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
-
 
 
 # Gear And Environments Used
