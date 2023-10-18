@@ -18,3 +18,8 @@ It  stores information about objects on the network and makes this information e
 - VmWare: https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html
 - Microsoft Server 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
   
+  # Procedure
+  After the installation of virtual machine, click on create new virtual machine
+
+
+
