@@ -13,3 +13,8 @@ It  stores information about objects on the network and makes this information e
 - Hypervisor: VMWare Workstation 16 Player
 - Server : Microsoft 2019
 - Operating System : Windows 10
+  
+# Links
+- VmWare: https://www.vmware.com/in/products/workstation-player/workstation-player-evaluation.html
+- Microsoft Server 2019: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019
+  
