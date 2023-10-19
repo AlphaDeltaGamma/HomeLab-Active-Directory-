@@ -24,4 +24,13 @@ After the installation of virtual machine, click on create new virtual machine
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/f7dd1158-ca09-4aa0-b5d6-40eca7b27b72)
 
+Then we will have to choose I will install the operating system later 
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/cfc79cd4-f923-48a2-b85f-0580bcb241d2)
+
+We should select microsoft windows as our operating system and version is **Windows Server 2019** 
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/7a98ff8a-4da1-4fe6-abaf-0138cbed077d)
+
+
 
