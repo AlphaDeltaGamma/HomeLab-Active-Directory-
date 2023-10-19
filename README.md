@@ -36,6 +36,20 @@ Typer your virtual machine name and change the location as per your convenience 
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/3936ccf7-0afe-4242-9eb6-c784c985549f)
 
+We can keep these both options as default 
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/989bee31-717e-42b9-b9aa-c50717129095)
+
+Now we have to select customize hardware oprion 
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/5425ae26-8fc3-4f6f-b519-c83d77dbd590)
+
+Here we have to select **New CD/DVD (SATA)** option and use ISO image file so it can load the iso that we just downloaded for Windows Server.And make sure that the path has been populated with the iso image file click on close.
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/44bedac4-dde0-493f-9511-d7300a2b618d)
+
+Now click on finish option and the virtual machine has been setup.
+
 
 
  
