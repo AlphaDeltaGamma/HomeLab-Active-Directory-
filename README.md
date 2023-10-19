@@ -32,5 +32,13 @@ We should select microsoft windows as our operating system and version is **Wind
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/7a98ff8a-4da1-4fe6-abaf-0138cbed077d)
 
+Typer your virtual machine name and change the location as per your convenience or you can keep the default location
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/3936ccf7-0afe-4242-9eb6-c784c985549f)
+
+
+
+ 
+
 
 
