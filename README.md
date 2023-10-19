@@ -22,5 +22,6 @@ It  stores information about objects on the network and makes this information e
 # Procedure
 After the installation of virtual machine, click on create new virtual machine
 
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/2c01adbe-9206-4784-9367-3d5de56f4ba3)
 
 
