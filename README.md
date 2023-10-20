@@ -50,6 +50,8 @@ Here we have to select **New CD/DVD (SATA)** option and use ISO image file so it
 
 Now click on finish option and the virtual machine has been setup.
 
+
+
 **First boot screen of Windows Server 2019**
 
 The installation wizard will appear in a couple of seconds after the boot
@@ -61,6 +63,51 @@ The installation wizard will appear in a couple of seconds after the boot
 Click on Install Now
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/ef413620-9e1a-406f-b4ef-b86aa06d7d69)
+
+Select The Operating System You Want To Install
+- Select the version you want to install
+- Click Next
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/55695f83-2194-41a8-813d-b6a91c12f9af)
+
+Accept the License Agreement
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/fd674aa2-ca61-4788-92aa-e889c522c15c)
+
+Select installation method, Click custom installation
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/92c82ecb-e9ab-4078-b23a-e01affb8e5e2)
+
+Select the installation disk for installation
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/6daad982-4411-4068-b29d-5c6a4e183501)
+
+Installing Windows Server 2019
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/368dd672-3e9c-492d-b775-a1ae3d65234a)
+
+Windows getting ready after the installation completes
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/6d3a0fbd-130d-4615-8b2f-5f4df1b28ad7)
+
+Create Administrator User
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/380a109b-2d4a-4dbd-9ed4-4cb6c6be0d66)
+
+Windows Server 2019 Login screen
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/fb7b640c-5f02-4e23-a3bf-da6325deb86d)
+
+
+
+
+
+
+
+
+
+
+
 
 
    
