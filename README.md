@@ -52,6 +52,8 @@ Now click on finish option and the virtual machine has been setup.
 
 
 
+
+
  
 
 
