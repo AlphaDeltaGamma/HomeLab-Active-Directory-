@@ -50,6 +50,20 @@ Here we have to select **New CD/DVD (SATA)** option and use ISO image file so it
 
 Now click on finish option and the virtual machine has been setup.
 
+**First boot screen of Windows Server 2019**
+
+The installation wizard will appear in a couple of seconds after the boot
+- Select the language time and keyboard settings
+- Click Next
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/f5e84512-6ea0-45ac-9ec3-2f9147e91dfe)
+
+Click on Install Now
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/ef413620-9e1a-406f-b4ef-b86aa06d7d69)
+
+
+   
 
 
 
