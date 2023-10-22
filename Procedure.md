@@ -43,9 +43,7 @@ Click on Install Now
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/ef413620-9e1a-406f-b4ef-b86aa06d7d69)
 
-Select The Operating System You Want To Install
-- Select the version you want to install
-- Click Next
+- Selecting the version of operating system, Click Next
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/55695f83-2194-41a8-813d-b6a91c12f9af)
 
@@ -69,7 +67,7 @@ Windows getting ready after the installation completes
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/6d3a0fbd-130d-4615-8b2f-5f4df1b28ad7)
 
-Createing Administrator User
+Creating Administrator User
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/380a109b-2d4a-4dbd-9ed4-4cb6c6be0d66)
 
