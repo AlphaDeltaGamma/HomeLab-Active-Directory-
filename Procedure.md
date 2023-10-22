@@ -77,7 +77,7 @@ Windows Server 2019 Login screen
 
 First look at Windows Server 2019
 
-![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/875f7b07-0078-47a8-ba5c-cbe0e138b867)
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/2e81942b-1b05-41c7-90cd-5359753f1b96)
 
 
 
