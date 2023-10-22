@@ -69,7 +69,7 @@ Windows getting ready after the installation completes
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/6d3a0fbd-130d-4615-8b2f-5f4df1b28ad7)
 
-Create Administrator User
+Createing Administrator User
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/380a109b-2d4a-4dbd-9ed4-4cb6c6be0d66)
 
