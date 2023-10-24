@@ -60,6 +60,95 @@ As mentioned earlier, a security group is used to assign permissions to shared r
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/5f8a5ed2-c1b7-419f-b575-12f4e3bd2a40)
 
+To find a user among a large number of users in Active Directory, you can click on the domain (e.g., corp.ADLabDelta.com) that you're using, right-click on it, and select the Find option. Then, you can simply type in the name of the user you're looking for. For example, if you type John.P, John.P will appear in the search results, making it easier to locate the specific user you need.
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/b0bc9d6e-5438-41e0-866e-74068f90294c)
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/7e284f73-88d0-4b8b-bca9-6e79d6dda7c3)
+
+If you're looking for a specific computer in Active Directory, you can right-click, select Find, change the search category to Computers, and then type in the name of the computer you're searching for. This will help you quickly locate the desired computer object within your directory.
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/79e833c2-c4a0-42da-a956-1be9add537d1)
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/a9e2c1df-d8ad-435a-b2fa-dc34cde8fa78)
+
+To add various objects to different groups, such as a user like John.P, and include John.P in a group that we've created, go to the Member Of section and click on Add. You can type in the name of the group that you want the user to be a part of 
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/0781d3fd-70ca-47f1-bca7-5d9d364404a1)
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/5493bd2c-352f-492a-a1cf-579a923680e5)
+
+We can also enable or disable an account here. For example, if we need to disable John.P's account, we can move the account to the Termed group.Right click on the user and select disable account
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/33d1fdbd-3d29-4aa7-9f3d-e7e986dc1a47)
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/c6c1775b-954b-4a9b-91ba-7004427e3198)
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/64c9cad0-24d1-4c59-b208-90a673254b75)
+
+To enable the account, you can check the "Termed" group, right-click on the user, and select Enable Account.
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/35d116a9-db63-416d-a221-cefdcb7c1404)
+
+To reset the password, right-click on the user and select Reset Password.
+
+![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/a5326645-2f13-4575-8606-c968f4134c43)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
