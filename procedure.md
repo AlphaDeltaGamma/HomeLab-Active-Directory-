@@ -3,7 +3,7 @@ After the installation of virtual machine, click on create new virtual machine
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/f7dd1158-ca09-4aa0-b5d6-40eca7b27b72)
 
-Then we will have to choose I will install the operating system later 
+Then we will need to select I will install the operating system later.
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/cfc79cd4-f923-48a2-b85f-0580bcb241d2)
 
@@ -11,15 +11,15 @@ Selecting microsoft windows as our operating system and version is **Windows Ser
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/7a98ff8a-4da1-4fe6-abaf-0138cbed077d)
 
-Typing the virtual machine name and changing the location as per our convenience or we can keep the default location
+Typing the virtual machine name and adjusting the location according to our preferences, or we can choose to retain the default location.
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/3936ccf7-0afe-4242-9eb6-c784c985549f)
 
-We can keep these both options as default 
+We can leave both of these options as default.
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/989bee31-717e-42b9-b9aa-c50717129095)
 
-Now selecting customize hardware oprion 
+Now, select the Customize Hardware option.
 
 ![image](https://github.com/AlphaDeltaGamma/HomeLab-Active-Directory-/assets/92504746/5425ae26-8fc3-4f6f-b519-c83d77dbd590)
 
